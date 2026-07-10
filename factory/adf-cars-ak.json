@@ -1,0 +1,15 @@
+{
+	"name": "adf-cars-ak",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1ab38c9b-5b23-4788-8291-864b479a3394",
+		"tenantId": "a476ec1e-174d-4f71-8e6a-d594e85da42b"
+	}
+}
